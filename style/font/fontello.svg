@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2023 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="linkedin-1" unicode="&#xe800;" d="M159-15l-156 0 0 521 156 0 0-521z m394 505q87 0 133-56t45-154l0-295-156 0 0 279q0 109-76 109-61 0-80-62l0-326-156 0q2 469 0 521l123 0 10-103 3 0q54 87 154 87z m-553 146q0 79 81 79 80 0 80-79 0-77-80-77-81 0-81 77z" horiz-adv-x="731" />
+
+<glyph glyph-name="mail" unicode="&#xe801;" d="M834 688q44 0 74-30t30-74l0-468q0-43-30-74t-74-30l-730 0q-44 0-74 30t-30 74l0 468q0 44 30 74t74 30l730 0z m-421-454l-82 72-190-190 655 0-190 190-81-72q-24-20-56-20t-56 20z m-309-82l187 189-187 163 0-352z m542 189l188-188 0 351z m188 243l-730 0 0-11 342-300q9-7 23-7t22 7l343 300 0 11z" horiz-adv-x="938" />
+
+<glyph glyph-name="download-alt" unicode="&#xe802;" d="M0-150l0 135 1000 0 0-135-1000 0z m88 586l228 0 0 414 370 0 0-414 228 0-414-385z" horiz-adv-x="1000" />
+
+<glyph glyph-name="github" unicode="&#xe805;" d="M0 3q0-63 62-108t150-45 151 45 62 108q0 64-62 109t-151 45q-1 0-3 0t-3-1q-24 22-24 48t24 53q71 4 120 55t49 121q0 28-7 50 28 5 44 14l0 115q-48-32-109-32l-7 0q-46 31-101 31-75 0-128-52t-53-126q0-47 24-87t64-64q-28-36-28-74 0-36 26-75-46-21-73-55t-27-75z m121 432q0 33 22 57t50 23q30 0 51-23t21-57-21-56-51-24q-29 0-50 24t-22 56z m3-432q0 27 26 46t62 18 63-18 26-46q0-26-26-45t-63-19-62 19-26 45z m331 766q0 34 24 58t57 23 58-23 24-58-24-58-58-24-57 24-24 58z m19-647l0 479 134 0 0-479-134 0z m181 377l55 0 0-285q4-30 20-51t34-32 38-16 30-7l20 0q27 0 48 8 23 8 30 16l7 9 2 99q-42-13-65-13-5 0-9 1-23 3-27 16l-4 13q0 3-1 4l0 238 91 0 0 102-91 0 0 93-123 0 0-93-55 0 0-102z" horiz-adv-x="939" />
+</font>
+</defs>
+</svg>
